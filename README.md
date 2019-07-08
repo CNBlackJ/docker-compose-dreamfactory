@@ -26,7 +26,7 @@
 ## 获取docker-compose.yml
 
 - 下载`docker-compose.yml`
-  - ```$ git clone```
+  - ```$ git clone git@github.com:CNBlackJ/docker-compose-dreamfactory.git dreamfactory```
 
 ## 启动安装dreamfactory
 
